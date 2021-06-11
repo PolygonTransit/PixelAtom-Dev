@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PixelAtom-Dev
-- 👀 I’m interested in Trains and Computers
-- 🌱 I’m currently learning Pygame
+- 👀 I’m interested in Trains and Gaming Computers
+- 🌱 I’m currently learning Python and Visual Basic
 
 <!---
 PixelAtom-Dev/PixelAtom-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
